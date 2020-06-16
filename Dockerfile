@@ -5,3 +5,5 @@ ADD sourcecode /src
 RUN pip install pystrich
 
 CMD [ "python", "./src/my_script.py" ]
+
+Added line and text
